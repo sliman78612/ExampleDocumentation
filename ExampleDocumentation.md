@@ -1,7 +1,7 @@
 # Example Project Documentation Guideline
 
-> Include here a brief description of the project, what technologies are used etc.
-
+ Pyhton program to play the game 'Hangman' with 6 word possiblities. 
+ 
 ## Milestone 1
 
 - Answer some of these questions in the next few bullet points. What have you built? What technologies have you used? Why have you used those?
